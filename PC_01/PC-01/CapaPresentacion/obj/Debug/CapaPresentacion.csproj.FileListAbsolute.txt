@@ -1,0 +1,39 @@
+c:\users\alumnos\documents\visual studio 2015\Projects\PC-01\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+c:\users\alumnos\documents\visual studio 2015\Projects\PC-01\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+c:\users\alumnos\documents\visual studio 2015\Projects\PC-01\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+c:\users\alumnos\documents\visual studio 2015\Projects\PC-01\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+c:\users\alumnos\documents\visual studio 2015\Projects\PC-01\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+c:\users\alumnos\documents\visual studio 2015\Projects\PC-01\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+c:\users\alumnos\documents\visual studio 2015\Projects\PC-01\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+c:\users\alumnos\documents\visual studio 2015\Projects\PC-01\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+c:\users\alumnos\documents\visual studio 2015\Projects\PC-01\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+c:\users\alumnos\documents\visual studio 2015\Projects\PC-01\CapaPresentacion\bin\Debug\CapaEntidad.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\PC-01\CapaPresentacion\bin\Debug\CapaNegocio}.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\PC-01\CapaPresentacion\bin\Debug\CapaDatos.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\PC-01\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+c:\users\alumnos\documents\visual studio 2015\Projects\PC-01\CapaPresentacion\bin\Debug\CapaNegocio}.pdb
+c:\users\alumnos\documents\visual studio 2015\Projects\PC-01\CapaPresentacion\bin\Debug\CapaDatos.pdb
+c:\users\alumnos\documents\visual studio 2015\Projects\PC-01\CapaPresentacion\obj\Debug\CapaPresentacion.RegProblema.resources
+c:\users\alumnos\documents\visual studio 2015\Projects\PC-01\CapaPresentacion\obj\Debug\CapaPresentacion.RegSolucion.resources
+c:\users\alumnos\documents\visual studio 2015\Projects\PC-01\CapaPresentacion\obj\Debug\CapaPresentacion.Listado.resources
+C:\Users\Alumnos\Documents\visual studio 2015\Projects\PC_RodrigoGuadalupe\PC-01\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Alumnos\Documents\visual studio 2015\Projects\PC_RodrigoGuadalupe\PC-01\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Alumnos\Documents\visual studio 2015\Projects\PC_RodrigoGuadalupe\PC-01\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Alumnos\Documents\visual studio 2015\Projects\PC_RodrigoGuadalupe\PC-01\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Alumnos\Documents\visual studio 2015\Projects\PC_RodrigoGuadalupe\PC-01\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Alumnos\Documents\visual studio 2015\Projects\PC_RodrigoGuadalupe\PC-01\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\Alumnos\Documents\visual studio 2015\Projects\PC_RodrigoGuadalupe\PC-01\CapaPresentacion\bin\Debug\CapaNegocio}.dll
+C:\Users\Alumnos\Documents\visual studio 2015\Projects\PC_RodrigoGuadalupe\PC-01\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Alumnos\Documents\visual studio 2015\Projects\PC_RodrigoGuadalupe\PC-01\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\Alumnos\Documents\visual studio 2015\Projects\PC_RodrigoGuadalupe\PC-01\CapaPresentacion\bin\Debug\CapaNegocio}.pdb
+C:\Users\Alumnos\Documents\visual studio 2015\Projects\PC_RodrigoGuadalupe\PC-01\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Alumnos\Documents\visual studio 2015\Projects\PC_RodrigoGuadalupe\PC-01\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\Alumnos\Documents\visual studio 2015\Projects\PC_RodrigoGuadalupe\PC-01\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\Alumnos\Documents\visual studio 2015\Projects\PC_RodrigoGuadalupe\PC-01\CapaPresentacion\obj\Debug\CapaPresentacion.Listado.resources
+C:\Users\Alumnos\Documents\visual studio 2015\Projects\PC_RodrigoGuadalupe\PC-01\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Alumnos\Documents\visual studio 2015\Projects\PC_RodrigoGuadalupe\PC-01\CapaPresentacion\obj\Debug\CapaPresentacion.RegProblema.resources
+C:\Users\Alumnos\Documents\visual studio 2015\Projects\PC_RodrigoGuadalupe\PC-01\CapaPresentacion\obj\Debug\CapaPresentacion.RegSolucion.resources
+C:\Users\Alumnos\Documents\visual studio 2015\Projects\PC_RodrigoGuadalupe\PC-01\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+E:\PC_RodrigoGuadalupe\PC-01\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+E:\PC_RodrigoGuadalupe\PC-01\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+E:\PC_RodrigoGuadalupe\PC-01\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
